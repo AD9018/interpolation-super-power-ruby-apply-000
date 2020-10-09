@@ -1,5 +1,5 @@
 def display_rainbow(argument)
-  puts "R: #{argument[0]}, O: #{argumentorange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
+  puts "R: #{argument[0]}, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
   
 end
   
