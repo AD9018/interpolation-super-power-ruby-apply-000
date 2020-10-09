@@ -9,3 +9,12 @@ puts "The fifth color in the rainbow is #{display_rainbows[4,blue]}"
 puts "The sixth color in the rainbow is #{display_rainbows[5,indigo]}"
 puts "The seventh color in the rainbow is #{display_rainbows[6,violet]}"
 end
+
+
+def test_method(argument)
+  
+  
+  
+  
+  
+end
